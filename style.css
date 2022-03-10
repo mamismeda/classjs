@@ -1,0 +1,21 @@
+.lish{
+    background-color: green;
+}
+.rowy{
+    background-color: red;
+}
+
+.sur{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    display: none;
+}
+.show{
+    display: block;
+}
+.par{
+    text-align: center;
+}
